@@ -24,7 +24,7 @@ repository               : "RobinDoughnut/robindoughnut.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp-1.jpg"
+  avatar           : "pfp-1.JPG"
   name             : "This is my new sidebar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
