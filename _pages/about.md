@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello! tbhalvi here :dark_sunglasses:"
+title: "tbhalvi here! :dark_sunglasses:"
 author_profile: true
 redirect_from: 
   - /about/
