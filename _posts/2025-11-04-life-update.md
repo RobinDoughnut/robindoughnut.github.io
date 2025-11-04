@@ -1,9 +1,9 @@
 ---
-title: "Life Update"
+title: "life update"
 date: 2025-11-04
 categories: [personal]
 tags: [life, reflection, update]
-excerpt: "short update."
+excerpt: "short update. what ive been upto."
 image: /images/image-2.jpg
 ---
 
@@ -12,7 +12,7 @@ Been a while since I wrote anything here. Time moves pretty fast when your life 
 ---
 
 ### What’s the plan?
-In my final year of being a undergrad student. Still have no idea how I survived this long. It was not bad and not great. Met some awesome people in my university. Also shoutout to **8 no. gate**.  
+This website used to be tbhalvi.me now I am too broke to renew that personal domain. Anyhow in my final year (hopefully) of being a undergrad student. Still have no idea how I survived this long. It was not bad and not great. Met some awesome people in my university. Also shoutout to **8 no. gate**.  
 
 ---
 
@@ -21,7 +21,7 @@ Here are some stuff that is related to my degree I have been doing (or trying to
 - trying to understand the transformer archticture and how we can use it for domain adaptation (bangla nlp)
 - exploring computer vision by detecting defects in foil stamping (anomaly detection)
 - made some mediocre websites(static and dynamic) for companies, used vps, wordpress, php, (linux for vps)
-- read a paper on image restoration using open ai clip model which was fun and traumatising
+- read a paper on image restoration and tried to implement it using open ai clip model which was fun and traumatising
 - prompt engineering (mostly this)
 
 ---
@@ -42,11 +42,11 @@ Here is a random list of things that I am looking forward to in no particular or
 not looking forward to this stuffs:
 - quiz and mid of analaog electronics
 - morning engineering drawing class and assignment
-- data annotation and create dataset for anomaly
+- data annotation and creating dataset for anomaly detection
 - my wallet and bkash balance by the end of the month
 - old people giving unsolicited advice
 
 ---
 
 ### Closing remarks
-If you read this far, you should get a job. No just kidding, you are cool person. Keep me in your prayers so that i survive this week and maybe write something interesting and share with you. 
+If you read this far, you should get a job. No just kidding, you are a cool person. Keep me in your prayers so that i survive this week and maybe write something interesting and share with you. 
