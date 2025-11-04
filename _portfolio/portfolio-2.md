@@ -2,6 +2,8 @@
 title: "Projects from git"
 excerpt: "Currently linking my git account here<br/><img src='/images/2_soyjaks_pinting.webp'>"
 collection: portfolio
+
+date: 2025-01-07
 ---
 
 
