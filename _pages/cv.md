@@ -20,6 +20,7 @@ Work experience
 * Dec 2023: Technology and Media lead 
   * SteelCraftPEB
   * Duties includes: Maintaining websites, applications and generate content targeting SEO optimization.
+  * Dilly Dallying
 
 
   
@@ -27,7 +28,8 @@ Skills
 ======
 * Coding
 * Project Management
-* Content Creation
+* Music
+* Solving problems
 
 <!-- Publications
 ======
