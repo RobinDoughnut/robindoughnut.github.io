@@ -1,6 +1,6 @@
 ---
 title: "survival and pro tips guide and things i learned on europe trip"
-date: 2026-09-02
+date: 2026-09-01
 categories: [travel]
 tags: [lifehacks, tips]
 excerpt: "\"Be open to experience, be willing to try new things, don't have a rigid plan, accept random acts of hospitality without judgment or fear.\" —Anthony Bourdain"
