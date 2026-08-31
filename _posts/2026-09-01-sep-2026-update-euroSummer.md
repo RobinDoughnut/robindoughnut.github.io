@@ -4,7 +4,7 @@ date: 2026-09-01
 categories: [journal]
 tags: [life, student, europe, existential crisis, hair fall]
 excerpt: "This would give my soul the chance to lie in the sun, explore nature, drink espresso, read Urdu poetry and surf the Kali Yuga.."
-image: /images/image-filename.jpg
+image: /images/euro-summer.JPEG
 ---
 
 # Life during September 2026 and euro maxxing
