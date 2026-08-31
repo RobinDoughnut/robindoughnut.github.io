@@ -73,7 +73,7 @@ My time in Normandy was planned out by the program. The classes were long and co
 
 I hate networking. I live in a constant fear of being asked to share a fun fact about myself, and would much rather connect with someone serendipitously.
 
-At one point we were all craving deshi food. It was the idea of our mutual Bangladeshi friend, who had come from Saskatchewan Canada, and who turned out to be an excellent chef. The dorm kitchen was small — one stove, one sink, an oven, and five people who all wanted to be useful. The two girls could not cook. We made khichuri with dim and murgi. Bangladeshi home cooked food always hits different, and it hits differently again in Normandy. I was a bit sad that evening because Egypt had lost to Argentina by unfairness.
+At one point we were all craving deshi food. It was the idea of our mutual Bangladeshi friend, who had come from Saskatchewan Canada, and who turned out to be an excellent chef. The dorm kitchen was small — one stove, one sink, an oven, and five people who all wanted to be useful. We made khichuri with dim and murgi. Bangladeshi home cooked food always hits different, and it hits differently again in Normandy. I was a bit sad that evening because Egypt had lost to Argentina by unfairness.
 
 I had booked my flight three days late specifically to avoid these people. But they were great. 
 
@@ -139,5 +139,4 @@ And this pic inside a toilet in Italy where it was written in Bangla to flush, I
 
 ![Toilet sign](/images/tip-dao.jpg)
 {: style="max-width: 700px; width: 100%; display: block; margin: 20px auto;"}
-
 
