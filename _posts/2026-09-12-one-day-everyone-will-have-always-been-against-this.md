@@ -3,13 +3,10 @@ title: "Book Review- \"One Day, Everyone Will Have Always Been Against This\" by
 date: 2026-09-12
 categories: [books, politics]
 tags: [book-review, Omar El Akkad, palestine, genocide, activism, humanity]
-excerpt: "A reflection on Omar El Akkad's collection of essays about complicity, silence, and the urgent need to reclaim our humanity in the face of atrocity."
-image: /images/one-day-everyone-will-have-always-been-against-this.webp
+excerpt: "I believe we would all be benefitted by reading this book"
 ---
 
-# Book Review: "One Day, Everyone Will Have Always Been Against This" by Omar El Akkad
-
-![Book cover](/images/one-day-everyone-will-have-always-been-against-this.webp){: style="max-width: 250px; margin: 20px auto; display: block;" }
+# Book Review
 
 Recently I have been reading this book, and I wanted to write about this book a while, but I have been delaying it because I felt that it is a very important book and I am so afraid that I could not articulate myself so I end up with no output. I have spent so long trying to figure out the best way to write about this, the best way to frame myself so that I can write something about it and be informed.
 And the problem with that is that I don't know if I will ever feel qualified to speak at length on a topic like this. But that doesn't mean that I should just not write anything at all.  So instead of waiting to write until I feel like I am able to write at length and be basically a scholar on the topic, I don't want that to stop me from saying anything at all. Because that's worse. 
@@ -36,7 +33,7 @@ By stripping away political abstractions, he targets individual responsibility. 
 
 El Akkad's prose is propulsive, clear, and journalistic, yet deeply poetic and emotionally charged. It never feels condescending or overly self-indulgent. 
 
-El Akkad takes a hard look at what it means to live in a place of privilege, where you can look away from violence happening across the world or in your own backyard simply because it does not affect you directly. He asks: What does it do to a person to experience this violence versus being able to turn away from it? What part of your soul do you lose when you look away? What can be gained by reclaiming your humanity and taking your power back?
+Omar takes a hard look at what it means to live in a place of privilege, where you can look away from violence happening across the world or in your own backyard simply because it does not affect you directly. He asks: What does it do to a person to experience this violence versus being able to turn away from it? What part of your soul do you lose when you look away? What can be gained by reclaiming your humanity and taking your power back?
 
 Now that a genocide is happening directly in front of us and we see evidence of it every day, we have to make a conscious decision to not be one of the people that just sticks their head in the sand and pretend that it's not happening or tries to claim that it's a war where there's fighting on both sides.
 
@@ -50,7 +47,7 @@ In the last chapter Omar writes:
 
 > And yet, against all this, one day things will change. Alongside the ledger of atrocity, I keep another. The Palestinian doctor who would not abandon his patients, even as the bombs closed in. The Icelandic writer who raised money to get the displaced out of Gaza. The American doctors and nurses who risked their lives to go treat the wounded in the middle of a killing field. The puppet-maker who, injured and driven from his home, kept making dolls to entertain the children. The congresswoman who stood her ground in the face of censure, of constant vitriol, of her own colleagues' indifference. The protesters, the ones who gave up their privilege, their jobs, who risked something, to speak out. The people who filmed and photographed and documented all this, even as it happened to them, even as they buried their dead. It is not so hard to believe, even during the worst of things, that courage is the more potent contagion. That there are more invested in solidarity than annihilation. That just as it has always been possible to look away, it is always possible to stop looking away. None of this evil was ever necessary. Some carriages are gilded and others lacquered in blood, but the same engine pulls us all. We dismantle it now, build another thing entirely, or we hurtle toward the cliff, safe in the certainty that, when the time comes, we'll learn to lay tracks on air.
 
-I am going to finish my writing here, I would love to hear your thoughts. If you've read this book or anything similar, let's start a conversation.
+I am going to finish my writing here, I would love to hear your thoughts. If you've read this book or anything similar, let me know what you think.
 
 Thank you for reading this far. Please be kind to yourselves, take care of each other, and go slowly.
 
@@ -58,6 +55,6 @@ Thank you for reading this far. Please be kind to yourselves, take care of each 
 
 ## Suggested reading:
 
-Ghassan Kanafani - [Letter from Gaza](https://youtu.be/-ThCEzFWLOQ)
+Ghassan Kanafani - Letter from Gaza, https://youtu.be/-ThCEzFWLOQ
 
 Rashid Khalidi - The Hundred Years' War on Palestine
