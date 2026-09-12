@@ -56,6 +56,6 @@ Thank you for reading this far. Please be kind to yourselves, take care of each 
 
 ## Suggested reading:
 
-Ghassan Kanafani - Letter from Gaza, https://youtu.be/-ThCEzFWLOQ
+Ghassan Kanafani - [Letter from Gaza](https://youtu.be/-ThCEzFWLOQ)
 
 Rashid Khalidi - The Hundred Years' War on Palestine
