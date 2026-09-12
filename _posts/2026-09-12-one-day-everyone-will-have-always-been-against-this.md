@@ -9,7 +9,7 @@ image: /images/one-day-everyone-will-have-always-been-against-this.webp
 
 # Book Review: "One Day, Everyone Will Have Always Been Against This" by Omar El Akkad
 
-![Book cover](/images/one-day-everyone-will-have-always-been-against-this.webp)
+![Book cover](/images/one-day-everyone-will-have-always-been-against-this.webp){: style="max-width: 400px; margin: 20px auto; display: block;" }
 
 Recently I have been reading this book, and I wanted to write about this book a while, but I have been delaying it because I felt that it is a very important book and I am so afraid that I could not articulate myself so I end up with no output. I have spent so long trying to figure out the best way to write about this, the best way to frame myself so that I can write something about it and be informed.
 And the problem with that is that I don't know if I will ever feel qualified to speak at length on a topic like this. But that doesn't mean that I should just not write anything at all.  So instead of waiting to write until I feel like I am able to write at length and be basically a scholar on the topic, I don't want that to stop me from saying anything at all. Because that's worse. 
