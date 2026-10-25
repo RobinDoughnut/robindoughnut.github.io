@@ -21,15 +21,15 @@ The protests started with high school students angry about their schools: teache
 
 Growing up, consuming too much British and Hollywood content, I always thought the French were not that good militarily. They surrendered. White flag, World War Two, the punchline in every war movie. Napoleon was a short angry midget who couldn’t get his wife to love him back. They were shown as cowards who gave up easily.
 
-But France has won more battles than any other nation in history. The surrendering Frenchman was mostly British propaganda, and Hollywood kept it alive.
+But in reality France has actually won more battles than any other nation in history. The surrendering Frenchman was mostly British propaganda.
 
 The rudeness, though, is real. Even the French admit it. People from every other part of France will tell you Parisians are rude. Everyone warned me before I went. On my last day in Normandy, while I was saying goodbye, my professor told me that if I wanted to increase my Frenchness, I would have to be more rude.
 
-It was the last piece of advice she gave me.
+
 
 Then I went to Paris and said *Bonjour* before every sentence, or *Parlez-vous anglais?*, and they all babied me. They helped as much as they could and were really nice, which was lovely.
 
-So I find a strange charm in their rudeness. The rudeness turns out to have a door, and *bonjour* opens it.
+I find a strange charm in their rudeness. The rudeness has a door, and *bonjour* opens it.
 
 ---
 
@@ -45,9 +45,9 @@ At the time I didn’t know the background of the picture, and I didn’t care m
 
 Lately I got into the rise and fall of Napoleon. I’ve always been fascinated by the literary trope of the sensitive young man who conquered Europe but couldn’t get the woman he desired. In the summer of 1812 he marched into Russia with one of the largest armies Europe had ever seen. Only a small fraction came back. The two men in the painting are the ones who didn’t.
 
-That is what fierce ambition looks like. It is a force that could hurt, and it often did, and the people it hurt most were not the ones who had it. Napoleon got the empire, the legal code, the museums, the legend. The soldiers got the winter.
+That is just raw unbridled fierce ambition. It is a force that could hurt, and it did, and the people it hurt most were not the ones who had it. Napoleon got the empire, the legal code, the museums, the legend. The soldiers got the winter.
 
-And still. The lives, the things, the living, the things he made. The empire he made. Both of those are true, and I can’t make them cancel out.
+And still. The lives, the things, the living, the things he made. The empire he made. Both of those are true, and its hard to cancel them out. There is a duality of him being a despot and an egalitarian. 
 
 ---
 
