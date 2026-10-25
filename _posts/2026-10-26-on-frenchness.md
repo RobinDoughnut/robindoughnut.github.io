@@ -3,11 +3,11 @@ title: "On Frenchness"
 date: 2026-10-26
 categories: [art, france]
 tags: [france, napoleon, painting, rouen, frenchness, courage]
-excerpt: "I think we all need some Frenchness in our lives."
+excerpt: "we all need some Frenchness in our lives."
 
 ---
 
-Lately, I’ve been thinking about France lately, and more specifically its people. If you watch the news or scroll social media right now, it looks like the country is on fire, and in places it literally is. It’s true that there has been vandalism and breaking and it looks bad. So I texted my French friend Eugene and asked him how things were.
+Lately, I’ve been thinking about France, and its people. If you watch the news or scroll social media right now, it looks like the country is on fire, and in places it literally is. It’s true that there has been vandalism and breaking and it looks bad. So I texted my French friend Eugene and asked him how things were.
 
 He replied: “Hell.”
 
@@ -51,7 +51,7 @@ And still. The lives, the things, the living, the things he made. The empire he 
 
 ---
 
-Nassim Taleb said that- “I respect courage. Any idiot can be intelligent.” And the French fully embodies this aphorism.
+Nassim Taleb said that- “I respect courage. Any idiot can be intelligent.” And the French fully embody this aphorism.
 
 The French gets offended. They riot over schools and fuel prices. They are rude to you until you say good morning. They followed a short sensitive man into Russia in winter. All of these are kind of stupid and dumb if think you about it. But this willingness to fight for the thing you think that is worth fighting for, and having an unshakeable belief in your ability to create your own reality even if it might not happen is deeply admirable to me.
 
